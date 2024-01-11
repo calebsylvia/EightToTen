@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace _8to10.Controllers;
 
-    public class RestaurantPicker : ControllerBase
+    public class RestaurantPickerController : ControllerBase
     {
     private readonly IRestaurantPickerService _restaurantPickerService;
 
-    public RestaurantPicker(IRestaurantPickerService restaurantPickerService)
+    public RestaurantPickerController(IRestaurantPickerService restaurantPickerService)
     {
         _restaurantPickerService = restaurantPickerService;
     }

@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace _8to10.Controllers;
 
-public class Magic8Ball : ControllerBase
+public class Magic8BallController : ControllerBase
 {
     private readonly IMagic8BallService _magic8BallService;
 
-    public Magic8Ball(IMagic8BallService magic8BallService)
+    public Magic8BallController(IMagic8BallService magic8BallService)
     {
         _magic8BallService = magic8BallService;
     }

@@ -6,31 +6,31 @@ namespace _8to10.Controllers;
 
 [ApiController]
 [Route("GuessIt")]
-    public class GuessIt : ControllerBase
+    public class GuessItController : ControllerBase
     {
     private readonly IGuessItService _guessItService;
 
-    public GuessIt(IGuessItService guessItService)
+    public GuessItController(IGuessItService guessItService)
     {
         _guessItService = guessItService;
     }
 
         [HttpGet]
-        [Route("EasyGuess/{guess}")]
+        [Route("EasyGuess1-10/{guess}")]
         public string EasyGuess(string guess)
         {
             return _guessItService.EasyGuess(guess);
         }
 
         [HttpGet]
-        [Route("MediumGuess/{guess}")]
+        [Route("MediumGuess1-50/{guess}")]
         public string MediumGuess(string guess)
         {
             return _guessItService.MediumGuess(guess);
         }
 
         [HttpGet]
-        [Route("HardGuess/{guess}")]
+        [Route("HardGuess1-100/{guess}")]
 
         public string HardGuess(string guess)
         {
