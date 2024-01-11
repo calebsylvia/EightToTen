@@ -31,3 +31,36 @@
 /Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/obj/Debug/net7.0/8to10.pdb
 /Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/obj/Debug/net7.0/8to10.genruntimeconfig.cache
 /Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/obj/Debug/net7.0/ref/8to10.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/appsettings.Development.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/appsettings.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/8to10
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/8to10.deps.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/8to10.runtimeconfig.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/8to10.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/8to10.pdb
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.csproj.AssemblyReference.cache
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.AssemblyInfoInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.AssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.csproj.CoreCompileInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets/msbuild.8to10.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets/msbuild.build.8to10.props
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.8to10.props
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.8to10.props
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets.build.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/staticwebassets.development.json
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/scopedcss/bundle/8to10.styles.css
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.csproj.CopyComplete
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/refint/8to10.dll
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.pdb
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/8to10.genruntimeconfig.cache
+/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/Debug/net7.0/ref/8to10.dll

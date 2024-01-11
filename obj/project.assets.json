@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/calebsylvia/.nuget/packages/": {}
+    "/Users/brandon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/8to10.csproj",
+      "projectUniqueName": "/Users/brandon/Documents/Codestack/peerreviews/EightToTen/8to10.csproj",
       "projectName": "8to10",
-      "projectPath": "/Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/8to10.csproj",
-      "packagesPath": "/Users/calebsylvia/.nuget/packages/",
-      "outputPath": "/Users/calebsylvia/Downloads/Codestack Academy/Level 2/8to10/obj/",
+      "projectPath": "/Users/brandon/Documents/Codestack/peerreviews/EightToTen/8to10.csproj",
+      "packagesPath": "/Users/brandon/.nuget/packages/",
+      "outputPath": "/Users/brandon/Documents/Codestack/peerreviews/EightToTen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/calebsylvia/.nuget/NuGet/NuGet.Config"
+        "/Users/brandon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
